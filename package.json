@@ -1,0 +1,21 @@
+{
+  "name": "tiendaderopa",
+  "version": "1.0.0",
+  "description": "Pruebas automatizadas del sistema de tienda de ropa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "tienda",
+    "de",
+    "ropa"
+  ],
+  "author": "Draculinio",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.6.0"
+  }
+}
